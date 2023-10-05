@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyBJ3XCXFtOjaNDGt-NsjtZqIjVB--WyHbA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>184470602254</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>dev.Spoti.cmFlutterBootstrap.RunnerTests</string>
+	<key>PROJECT_ID</key>
+	<string>cm-bootsrap</string>
+	<key>STORAGE_BUCKET</key>
+	<string>cm-bootsrap.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:184470602254:ios:20f8c08cc6bdb6483cb25f</string>
+</dict>
+</plist>

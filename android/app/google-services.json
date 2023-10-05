@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "184470602254",
+    "project_id": "cm-bootsrap",
+    "storage_bucket": "cm-bootsrap.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:184470602254:android:abcbb3e370618ed63cb25f",
+        "android_client_info": {
+          "package_name": "dev.Spoti.cm_flutter_bootstrap"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkVSkxEnng2h2YJQi4qcK4dUmn8mvtExA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
