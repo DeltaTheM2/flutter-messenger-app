@@ -1,6 +1,7 @@
 # cm_flutter_bootstrap
 
 Submission for CM Flutter Bootstrap
+Simply register or login to access all of the messages with other Users.
 
 ## Getting Started
 
