@@ -2,6 +2,7 @@
 
 Submission for CM Flutter Bootstrap
 Simply register or login to access all of the messages with other Users.
+This was amy first project in Flutter
 
 ## Getting Started
 
@@ -16,4 +17,3 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-sample project
